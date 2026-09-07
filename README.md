@@ -1,109 +1,87 @@
-﻿<div align="center">
+<div align="center">
 
-# Sergey Kondykov
-### 🚀 C# / .NET Backend Developer & Polyglot Engineer
+# Hi there, I'm a Backend Engineer 👋
 
-Backend engineer with **3+ years of commercial experience** building high‑load systems, designing microservice architectures, and performing seamless legacy migrations.  
-Strong expertise in **.NET**, **PHP**, **Python**, and practical frontend experience with **Vue 3 / Nuxt.js**.
+I specialize in designing complex business logic, optimizing databases, and migrating large-scale legacy codebases to modern technological stacks.
+
+<img src="https://img.shields.io/badge/Expertise-Backend%20Engineering-blue?style=for-the-badge&logo=code" alt="Backend Engineering" />
 
 </div>
 
 ---
 
-## 📬 Contacts
-
-<p align="left">
-  <a href="https://t.me/defabris">
-    <img src="https://img.shields.io/badge/Telegram-@defabris-2CA5E0?logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:kondykovs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kondykovs@gmail.com-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kondykov">
-    <img src="https://img.shields.io/badge/GitHub-kondykov-181717?logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ Key Engineering Achievements
-
-- 🚀 **Performance Optimization:** Eliminated N+1 queries in 50%+ of critical operations, reducing endpoint latency by **4–8×** (300+ ms → 15–70 ms) using `AsSplitQuery()`, EF Core interceptors, and strategic indexing.
-- 🛡️ **Fault Tolerance:** Implemented RabbitMQ topologies with **Outbox** + **Idempotent Consumer**, achieving exact‑once delivery under peak loads (tens of thousands of orders/day).
-- 📐 **Architecture First:** Built native **CQRS without MediatR**, using direct handler injection via `[FromServices]` for zero overhead and compile‑time safety.
-- 🧪 **Code Quality:** Increased automated xUnit test coverage from **15% → 70%** across complex B2B microservices.
-
----
-
 ## 🛠️ Tech Stack
 
-### 💻 .NET Ecosystem
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+<div align="center">
 
-- **Core:** ASP.NET Core pipelines, custom DI/IoC tracking, async streams, high‑load request handling.
-- **Patterns:** DDD, Clean Architecture, CQRS (native handlers), SOLID.
+| Category | Technologies |
+|:--------:|:-------------|
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools & Infra** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-### 🐘 PHP Platforms
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-
-- Refactoring monoliths, PSR‑compliant middleware pipelines, Composer ecosystem, IoC containers.
-
-### 🗄️ Infrastructure & Messaging
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-
-- Relational schema optimization, `EXPLAIN ANALYZE`, compound indexes, caching strategies.
-- RabbitMQ exchange topologies, Retry/DLQ, Outbox, deduplication.
-- Multi‑stage Docker builds.
-
-### 🐍 Python & Frontend
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white" />
-
-- Python for parsing, automation, DevOps scripting.
-- Vue 3 / Nuxt.js for SPA/SSR modifications.
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Core Expertise
 
-### 🛍️ Lecar Business (ex. Abom)
-> Federal B2B marketplace with **8,000+ users**, **1.5M+ SKU catalog**, **15+ microservices on .NET 8**.
+<div align="center">
 
-- Designed gRPC infrastructure for catalog sync → **40% lower latency**, **2.5× less traffic**.
-- Built two‑level Redis caching with tag invalidation → **35% DB load reduction**.
-- Custom middleware for high‑load routing.
+### 💼 Business Logic & Architecture
+Developing fault-tolerant services and automating intricate business workflows
 
----
+### 🔄 Refactoring & Modernization
+Migrating outdated legacy systems to modern architectures, including cross-stack transitions
 
-### 🛡️ Pomogator V2 — Pp.HelperCrm.OrgsApi
-> Core Organization API subsystem in a financial audit & procurement ecosystem.
+### ⚡ Performance Tuning
+Profiling code, fixing performance bottlenecks, and optimizing heavy SQL queries
 
-- Sole backend developer migrating Organization domain from **Yii2 PHP → .NET 10**.
-- Ported **~80%** of public API with full feature parity and zero downtime.
-- Structured DDD bounded contexts + lightweight native CQRS.
-- *(Architecture details can be demonstrated during technical interview.)*
+</div>
 
 ---
 
-## 💼 Commercial Experience
+## 🎯 Soft Skills
 
-### C#/.NET Backend Developer — Professional Partner (2026 — Present)
-- Legacy migration (Yii2 → .NET 8–10).
-- Fixed DB bottlenecks via EF Core optimizations.
-- Reworked Swagger/OpenAPI, unified error handling.
+<div align="center">
 
-### PHP Developer — Mediasniper (2025 — 2026)
-- Refactored microservices from PHP 5.6 → 7.4.
-- Introduced Composer, PSR‑4, IoC containers.
-- Built internal MVP architecture with Symfony/Laravel.
+| 🎓 | 💬 | 🤝 | 📊 |
+|:---:|:---:|:---:|:---:|
+| **Leadership** | **Communication** | **Collaboration** | **Problem-Solving** |
+| Technical expertise combined with team guidance | Clear articulation of complex ideas | Building productive team relationships | Creative & analytical approach |
+| 🎯 | 📈 | 👥 | 🔧 |
+| **Strategic Thinking** | **Continuous Learning** | **Mentoring** | **Technical Debt Management** |
+| Aligning tech solutions with business goals | Staying current with modern technologies | Helping team members grow professionally | Balancing speed with quality |
 
-### C#/.NET Backend Developer — Lada Digit (2023 — 2025)
-- API Gateway with REST → gRPC transformation.
-- RabbitMQ topologies with Retry/DLQ + Outbox.
-- Implemented message deduplication for pricing sync.
+</div>
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Analytics
 
-- **Top Academy** — Software Developer (2022–2026)
-- **TMK** — Information Systems (2018–2022)
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kondykov&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/kondykov)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kondykov&layout=compact&theme=tokyonight)](https://github.com/kondykov)
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kondykov/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defabris)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondykovs@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Sergey Kondykov**
+
+</div>
