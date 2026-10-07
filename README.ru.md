@@ -6,7 +6,7 @@
 
 <br/>
 
-**🇬🇧 English · [🇷🇺 Русский](README.ru.md)**
+**[🇬🇧 English](README.md) · 🇷🇺 Русский**
 
 ![Profile views](https://komarev.com/ghpvc/?username=kondykov&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/kondykov?style=for-the-badge&logo=github&color=2c5364)
@@ -15,40 +15,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Обо мне
 
-- 🧠 Backend engineer: I design complex business logic and automate intricate workflows
-- 🗄️ I optimize databases and hunt down performance bottlenecks
-- 🔄 I migrate large legacy codebases to modern stacks
-- 🔍 I have hands-on experience in reverse engineering
-- 🎨 On the frontend (JS/TS) I work as an architect and reviewer; the code is written with AI assistance
-- 🚢 I deploy my own projects and write simple CI/CD pipelines with GitHub Actions
+- 🧠 Backend-разработчик: проектирую сложную бизнес-логику и автоматизирую запутанные процессы
+- 🗄️ Оптимизирую базы данных и нахожу узкие места в производительности
+- 🔄 Мигрирую крупные legacy-кодовые базы на современные стеки
+- 🔍 Есть практический опыт reverse engineering
+- 🎨 На фронтенде (JS/TS) выступаю как архитектор и ревьюер, код пишет AI
+- 🚢 Разворачиваю собственные проекты и пишу простые CI/CD-пайплайны на GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологии
 
 <div align="center">
 
-**Backend (primary)**
+**Backend (основное)**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend (architecture & review)**
+**Frontend (архитектура и ревью)**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Data & Messaging**
+**Данные и очереди**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**DevOps (basic)**
+**DevOps (базовый уровень)**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -56,41 +56,41 @@
 
 </div>
 
-### 📈 Proficiency
+### 📈 Уровень владения
 
 <div align="center">
 
-| Area | Level |
-|:-----|:------|
+| Область | Уровень |
+|:--------|:--------|
 | PHP / Python / .NET | ![](https://img.shields.io/badge/-Production-blue?style=flat-square) |
 | Reverse engineering | ![](https://img.shields.io/badge/-Hands--on-blue?style=flat-square) |
-| JS / TS | ![](https://img.shields.io/badge/-Architect%20%2F%20Reviewer-blue?style=flat-square) |
-| Deployment, CI/CD (Actions) | ![](https://img.shields.io/badge/-Basic-blue?style=flat-square) |
+| JS / TS | ![](https://img.shields.io/badge/-Архитектор%20%2F%20Ревьюер-blue?style=flat-square) |
+| Деплой, CI/CD (Actions) | ![](https://img.shields.io/badge/-Базовый-blue?style=flat-square) |
 
 </div>
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 Ключевые компетенции
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 💼 Business Logic<br/>& Architecture
-Fault-tolerant services and automation of intricate business workflows
+### 💼 Бизнес-логика<br/>и архитектура
+Отказоустойчивые сервисы и автоматизация сложных бизнес-процессов
 
 </td>
 <td align="center" width="33%">
 
-### 🔄 Refactoring<br/>& Modernization
-Migrating legacy systems to modern architectures, including cross-stack transitions
+### 🔄 Рефакторинг<br/>и модернизация
+Миграция legacy-систем на современные архитектуры, в том числе между стеками
 
 </td>
 <td align="center" width="33%">
 
-### ⚡ Performance<br/>Tuning
-Profiling code, fixing bottlenecks, optimizing heavy SQL queries
+### ⚡ Оптимизация<br/>производительности
+Профилирование, устранение узких мест, оптимизация тяжёлых SQL-запросов
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Profiling code, fixing bottlenecks, optimizing heavy SQL queries
 
 ---
 
-## 📫 Connect with Me
+## 📫 Связаться со мной
 
 <div align="center">
 
