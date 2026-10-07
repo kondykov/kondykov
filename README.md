@@ -18,6 +18,9 @@
 - 🧠 I design complex business logic and automate intricate workflows
 - 🗄️ I optimize databases and profile performance bottlenecks
 - 🔄 I migrate large-scale legacy codebases to modern technological stacks
+- 🔍 I have hands-on experience with reverse engineering
+- 🎨 I touch the frontend as an architect and reviewer (JS/TS), with AI-assisted implementation
+- 🚢 I deploy my own projects and write simple CI/CD pipelines with GitHub Actions
 - 🤝 I like mentoring, clear communication and balancing speed with quality
 
 ---
@@ -26,21 +29,46 @@
 
 <div align="center">
 
+**Backend (основная специализация)**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<br/>
+
+**Frontend (архитектура и ревью)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Data & Messaging**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-<br/>
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps (базовый уровень)**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
+### 📈 Уровень владения
 
+<div align="center">
+
+| Область | Уровень |
+|:--------|:--------|
+| PHP / Python / .NET | ![](https://img.shields.io/badge/-Production-success?style=flat-square) |
+| Reverse Engineering | ![](https://img.shields.io/badge/-Hands--on-blueviolet?style=flat-square) |
+| JS / TS, архитектура фронта | ![](https://img.shields.io/badge/-Architect%20%2F%20Reviewer-blue?style=flat-square) |
+| DevOps: деплой, CI/CD (Actions) | ![](https://img.shields.io/badge/-Basic-orange?style=flat-square) |
+
+</div>
+
+---
 ## 🚀 Core Expertise
 
 <table align="center">
