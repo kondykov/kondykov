@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergey%20Kondykov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-разработчик&descSize=22&descAlignY=58" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergey%20Kondykov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer&descSize=22&descAlignY=58" alt="header" width="100%" />
 
-<a href="https://github.com/kondykov"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Проектирую+сложную+бизнес-логику;Оптимизирую+БД+и+тяжёлые+SQL-запросы;Мигрирую+legacy+на+современные+стеки;Reverse+engineering+и+архитектура" alt="Typing SVG" /></a>
+<a href="https://github.com/kondykov"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+complex+business+logic;Optimizing+databases+and+heavy+SQL;Migrating+legacy+to+modern+stacks;Reverse+engineering+and+architecture" alt="Typing SVG" /></a>
 
 <br/>
 
