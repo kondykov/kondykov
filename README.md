@@ -14,6 +14,14 @@ I design complex business logic and automate intricate workflows, find what make
 
 **Reverse engineering.** Hands-on experience.
 
+## Project
+
+**[hh-autoapplier](https://github.com/kondykov/hh-autoapplier-extension)** is a semi-automated job search tool for hh.ru. The backend collects vacancies from public pages, filters and scores them with rules and an LLM, picks a resume and writes a cover letter. Doubtful cases go to manual review, and a Chrome extension applies from the queue in the user's own browser.
+
+The backend follows DDD and CQRS, vacancy sources are plugins, and CI covers both the backend and the extension.
+
+`C#` `ASP.NET Core` `TypeScript` `Chrome MV3` `PostgreSQL` `Docker`
+
 ## Stack
 
 | Area | Technologies | Level |
