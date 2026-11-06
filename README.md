@@ -1,124 +1,28 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Sergey Kondykov, Backend Engineer. A query plan: PHP, C#, .NET and Python workers; business logic; PostgreSQL and MySQL; legacy to modern stacks; reverse engineering." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergey%20Kondykov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer&descSize=22&descAlignY=58" alt="header" width="100%" />
+<p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
-<a href="https://github.com/kondykov"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+complex+business+logic;Optimizing+databases+and+heavy+SQL;Migrating+legacy+to+modern+stacks;Reverse+engineering+and+architecture" alt="Typing SVG" /></a>
+I design complex business logic and automate intricate workflows, find what makes databases slow, and move large legacy codebases to modern stacks.
 
-<br/>
+## What I do
 
-**🇬🇧 English · [🇷🇺 Русский](README.ru.md)**
+**Business logic and architecture.** Fault-tolerant services and automation of intricate business workflows.
 
-![Profile views](https://komarev.com/ghpvc/?username=kondykov&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/kondykov?style=for-the-badge&logo=github&color=2c5364)
+**Refactoring and modernization.** Migrating legacy systems to modern architectures, including cross-stack transitions.
 
-</div>
+**Performance tuning.** Profiling code, fixing bottlenecks, optimizing heavy SQL queries.
 
----
+**Reverse engineering.** Hands-on experience.
 
-## 👨‍💻 About Me
+## Stack
 
-- 🧠 Backend engineer: I design complex business logic and automate intricate workflows
-- 🗄️ I optimize databases and hunt down performance bottlenecks
-- 🔄 I migrate large legacy codebases to modern stacks
-- 🔍 I have hands-on experience in reverse engineering
-- 🎨 On the frontend (JS/TS) I work as an architect and reviewer; the code is written with AI assistance
-- 🚢 I deploy my own projects and write simple CI/CD pipelines with GitHub Actions
+| Area | Technologies | Level |
+|:-----|:-------------|:------|
+| Backend | `PHP` `C#` `.NET` `Python` | Production |
+| Data and messaging | `MySQL` `PostgreSQL` `RabbitMQ` | Optimization |
+| Frontend | `JavaScript` `TypeScript` | Architect and reviewer; the code is written with AI assistance |
+| DevOps | `Docker` `GitHub Actions` `Git` | Basic: deploying my own projects, simple CI/CD |
 
----
+## Contact
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend (primary)**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend (architecture & review)**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Data & Messaging**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**DevOps (basic)**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 📈 Proficiency
-
-<div align="center">
-
-| Area | Level |
-|:-----|:------|
-| PHP / Python / .NET | ![](https://img.shields.io/badge/-Production-blue?style=flat-square) |
-| Reverse engineering | ![](https://img.shields.io/badge/-Hands--on-blue?style=flat-square) |
-| JS / TS | ![](https://img.shields.io/badge/-Architect%20%2F%20Reviewer-blue?style=flat-square) |
-| Deployment, CI/CD (Actions) | ![](https://img.shields.io/badge/-Basic-blue?style=flat-square) |
-
-</div>
-
----
-
-## 🚀 Core Expertise
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 💼 Business Logic<br/>& Architecture
-Fault-tolerant services and automation of intricate business workflows
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 Refactoring<br/>& Modernization
-Migrating legacy systems to modern architectures, including cross-stack transitions
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ Performance<br/>Tuning
-Profiling code, fixing bottlenecks, optimizing heavy SQL queries
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kondykov&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondykov&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=kondykov&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kondykov/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defabris)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondykovs@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+[LinkedIn](https://www.linkedin.com/in/sergey-kondykov/) · [Telegram](https://t.me/defabris) · [kondykovs@gmail.com](mailto:kondykovs@gmail.com)
